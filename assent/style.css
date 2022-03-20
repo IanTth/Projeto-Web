@@ -1,8 +1,11 @@
-header{
+#hd {
 
-
-
+  position: sticky
 }
+
+#img {
+  
+  }
 
 body{
     
@@ -10,6 +13,13 @@ body{
     background-color: #380357;
 
 }
+
+#h1 {
+
+  text-align: right;
+}
+
+#c1, #c2 , #c3 ,#c4 {color: #62616e}
 
 .footer-basic {
     padding:40px 0;
