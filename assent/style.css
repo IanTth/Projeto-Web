@@ -33,14 +33,17 @@ border: none;
   }
 
 
+main {
 
+  text-align: justify;
+
+}
 
 body{
     
     color: azure;
     background-color: #380357;
-    text-align: justify;
-
+    
 }
 
 .navlinks, li {
