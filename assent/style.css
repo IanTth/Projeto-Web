@@ -33,6 +33,13 @@ border: none;
   }
 
 
+#logo2 {
+
+  cursor: pointer;
+  text-align: center;
+
+}
+
 main {
 
   text-align: justify;
