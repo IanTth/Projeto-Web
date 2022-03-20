@@ -1,10 +1,25 @@
-#hd {
-
-  position: sticky
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-#img {
-  
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+a {
+  font-family: 'Trebuchet MS', sans-serif; 
+  font-size:20px;
+}
+
+
+#logo {
+  cursor: pointer;
+  margin-right: auto;
   }
 
 body{
@@ -14,12 +29,20 @@ body{
 
 }
 
-#h1 {
+.navlinks, li {
+  list-style: none;
+  display: inline-block;
+  justify-content: flex-end;
+  padding: 0px 20px;
 
-  text-align: right;
 }
 
-#c1, #c2 , #c3 ,#c4 {color: #62616e}
+#slogan {
+
+  font-style: italic;
+  text-align: center;  
+}
+
 
 .footer-basic {
     padding:40px 0;
