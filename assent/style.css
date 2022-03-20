@@ -29,7 +29,7 @@ border: none;
   margin-right: auto;
   justify-content: left;
   text-align: left;
-  background-color: #380357;
+  background-color: #ffffff;
   }
 
 
@@ -38,6 +38,13 @@ main {
   text-align: justify;
 
 }
+
+#navbar {
+
+background-color: white;
+
+}
+
 
 body{
     
