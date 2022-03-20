@@ -16,6 +16,13 @@ a {
   font-size:20px;
 }
 
+#btt{
+
+border: none;
+
+}
+
+
 
 #logo {
   cursor: pointer;
