@@ -30,7 +30,6 @@ border: none;
   justify-content: left;
   text-align: left;
   background-color: #ffffff;
-  background-image:url('index.html');
   }
 
 
@@ -38,7 +37,6 @@ border: none;
 
   cursor: pointer;
   text-align: center;
-  background-image:url('index.html');
 
 }
 
