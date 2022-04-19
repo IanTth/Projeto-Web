@@ -47,16 +47,16 @@ main {
 }
 
 #navbar {
-
-background-color: white;
+color: #ffffff;
+background-color: rgb(255, 0, 0);
 
 }
 
 
 body{
     
-    color: azure;
-    background-color: #380357;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
     
 }
 
@@ -77,7 +77,7 @@ body{
 
 .footer-basic {
     padding:40px 0;
-    background-color:#380357;
+    background-color:#ff0202;
     color: rgb(255, 255, 255);;
   }
   
